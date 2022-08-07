@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  parallel = "classes" thread-count="5" name="firefoxTest">
+  <parameter name="browserName" value="firefox"></parameter>
+    <classes>
+      <class name="SauceDemo_TestScenarios.TC001_VerifyLoginFunctionality"/>
+      <class name="SauceDemo_TestScenarios.TC002_VerifyLogOutFuntionality"/>
+      <class name="SauceDemo_TestScenarios.TC004_AddToCartScenario"/>
+      <class name="SauceDemo_TestScenarios.TC005_OverallFunctionality"/>
+      <class name="SauceDemo_TestScenarios.TC003_VerifyDropDownFunctionality"/>
+    </classes>
+  </test > <!-- Test -->
+</suite> <!-- Suite -->

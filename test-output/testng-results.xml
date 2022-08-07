@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-06T15:22:51 IST" name="Suite" finished-at="2022-08-06T15:23:19 IST" duration-ms="28068">
+    <groups>
+    </groups>
+    <test started-at="2022-08-06T15:22:51 IST" name="chromeTest" finished-at="2022-08-06T15:23:19 IST" duration-ms="28068">
+      <class name="SauceDemo_TestScenarios.TC002_VerifyLogOutFuntionality">
+        <test-method is-config="true" signature="method1(java.lang.String)[pri:0, instance:SauceDemo_TestScenarios.TC002_VerifyLogOutFuntionality@3d5c822d]" started-at="2022-08-06T15:22:51 IST" name="method1" finished-at="2022-08-06T15:23:07 IST" duration-ms="15640" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="logOutFunctionality()[pri:0, instance:SauceDemo_TestScenarios.TC002_VerifyLogOutFuntionality@3d5c822d]" started-at="2022-08-06T15:23:07 IST" name="logOutFunctionality" finished-at="2022-08-06T15:23:09 IST" duration-ms="2221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFunctionality -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:SauceDemo_TestScenarios.TC002_VerifyLogOutFuntionality@3d5c822d]" started-at="2022-08-06T15:23:09 IST" name="method2" finished-at="2022-08-06T15:23:14 IST" duration-ms="4760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- SauceDemo_TestScenarios.TC002_VerifyLogOutFuntionality -->
+      <class name="SauceDemo_TestScenarios.TC004_AddToCartScenario">
+        <test-method is-config="true" signature="method1(java.lang.String)[pri:0, instance:SauceDemo_TestScenarios.TC004_AddToCartScenario@6f46426d]" started-at="2022-08-06T15:22:51 IST" name="method1" finished-at="2022-08-06T15:23:09 IST" duration-ms="17448" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="addtoCartFunctionality()[pri:0, instance:SauceDemo_TestScenarios.TC004_AddToCartScenario@6f46426d]" started-at="2022-08-06T15:23:09 IST" name="addtoCartFunctionality" finished-at="2022-08-06T15:23:19 IST" duration-ms="10327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtoCartFunctionality -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:SauceDemo_TestScenarios.TC004_AddToCartScenario@6f46426d]" started-at="2022-08-06T15:23:19 IST" name="method2" finished-at="2022-08-06T15:23:19 IST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- SauceDemo_TestScenarios.TC004_AddToCartScenario -->
+      <class name="SauceDemo_TestScenarios.TC001_VerifyLoginFunctionality">
+        <test-method is-config="true" signature="method1(java.lang.String)[pri:0, instance:SauceDemo_TestScenarios.TC001_VerifyLoginFunctionality@be35cd9]" started-at="2022-08-06T15:22:51 IST" name="method1" finished-at="2022-08-06T15:23:07 IST" duration-ms="15595" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="loginFunctionality()[pri:0, instance:SauceDemo_TestScenarios.TC001_VerifyLoginFunctionality@be35cd9]" started-at="2022-08-06T15:23:07 IST" name="loginFunctionality" finished-at="2022-08-06T15:23:08 IST" duration-ms="1259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunctionality -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:SauceDemo_TestScenarios.TC001_VerifyLoginFunctionality@be35cd9]" started-at="2022-08-06T15:23:08 IST" name="method2" finished-at="2022-08-06T15:23:13 IST" duration-ms="5057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- SauceDemo_TestScenarios.TC001_VerifyLoginFunctionality -->
+      <class name="SauceDemo_TestScenarios.TC005_OverallFunctionality">
+        <test-method is-config="true" signature="method1(java.lang.String)[pri:0, instance:SauceDemo_TestScenarios.TC005_OverallFunctionality@73700b80]" started-at="2022-08-06T15:22:51 IST" name="method1" finished-at="2022-08-06T15:23:07 IST" duration-ms="15264" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="overallFunctinality()[pri:0, instance:SauceDemo_TestScenarios.TC005_OverallFunctionality@73700b80]" started-at="2022-08-06T15:23:07 IST" name="overallFunctinality" finished-at="2022-08-06T15:23:10 IST" duration-ms="3689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- overallFunctinality -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:SauceDemo_TestScenarios.TC005_OverallFunctionality@73700b80]" started-at="2022-08-06T15:23:10 IST" name="method2" finished-at="2022-08-06T15:23:13 IST" duration-ms="2486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- SauceDemo_TestScenarios.TC005_OverallFunctionality -->
+      <class name="SauceDemo_TestScenarios.TC003_VerifyDropDownFunctionality">
+        <test-method is-config="true" signature="method1(java.lang.String)[pri:0, instance:SauceDemo_TestScenarios.TC003_VerifyDropDownFunctionality@49c7b90e]" started-at="2022-08-06T15:22:51 IST" name="method1" finished-at="2022-08-06T15:23:07 IST" duration-ms="15569" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="dropDownFunctionality()[pri:0, instance:SauceDemo_TestScenarios.TC003_VerifyDropDownFunctionality@49c7b90e]" started-at="2022-08-06T15:23:07 IST" name="dropDownFunctionality" finished-at="2022-08-06T15:23:09 IST" duration-ms="1832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDownFunctionality -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:SauceDemo_TestScenarios.TC003_VerifyDropDownFunctionality@49c7b90e]" started-at="2022-08-06T15:23:09 IST" name="method2" finished-at="2022-08-06T15:23:14 IST" duration-ms="4760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- SauceDemo_TestScenarios.TC003_VerifyDropDownFunctionality -->
+    </test> <!-- chromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
